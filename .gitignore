@@ -1,0 +1,7 @@
+# Env
+.env
+myenv/
+venv/
+
+# Database
+db.sqlite3
